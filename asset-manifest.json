@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/reddlex.com/static/css/main.eb3fba1e.css",
+    "main.js": "/reddlex.com/static/js/main.9d0ee8fc.js",
+    "static/media/bg.jpg": "/reddlex.com/static/media/bg.4560992e7748bd112496.jpg",
+    "static/media/bg2.jpg": "/reddlex.com/static/media/bg2.fa8cab4bd8cc1b1e350a.jpg",
+    "static/media/instagram.png": "/reddlex.com/static/media/instagram.35f16fc3d1d82c4faadf.png",
+    "static/media/playStore.jpeg": "/reddlex.com/static/media/playStore.b7d7613a6151a4c0e7ec.jpeg",
+    "static/media/node.png": "/reddlex.com/static/media/node.abfaef34ea49d0c7cd3c.png",
+    "static/media/Ahmet.jpeg": "/reddlex.com/static/media/Ahmet.5c24adf840d9bf05b80a.jpeg",
+    "static/media/react.png": "/reddlex.com/static/media/react.a24ff506a78e9243046a.png",
+    "static/media/img.jpeg": "/reddlex.com/static/media/img.b9bc731453bd1a3fd300.jpeg",
+    "static/media/twitter.jpeg": "/reddlex.com/static/media/twitter.0ed7e4d895e0b8c8f33f.jpeg",
+    "static/media/native.png": "/reddlex.com/static/media/native.90fb0021be64f2b1ce7e.png",
+    "static/media/go.webp": "/reddlex.com/static/media/go.30ff53ebad761f6e8e5a.webp",
+    "static/media/appStore.png": "/reddlex.com/static/media/appStore.128f76be7cb9dded82e9.png",
+    "static/media/github.png": "/reddlex.com/static/media/github.52ede61632060d5ebcc9.png",
+    "static/media/slick.svg": "/reddlex.com/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/reddlex.com/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/reddlex.com/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/reddlex.com/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/reddlex.com/index.html",
+    "main.eb3fba1e.css.map": "/reddlex.com/static/css/main.eb3fba1e.css.map",
+    "main.9d0ee8fc.js.map": "/reddlex.com/static/js/main.9d0ee8fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb3fba1e.css",
+    "static/js/main.9d0ee8fc.js"
+  ]
+}
