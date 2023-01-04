@@ -1,0 +1,114 @@
+#AboutUs{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+#AboutUs .members{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+#AboutUs .member
+{
+    margin: 20px 15px;
+    border-radius: 15px;
+    width: 400px;
+
+    padding: 40px 0;
+    height: max-content;
+    background-color: #fff;
+    transition: all 1s;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+}
+
+
+
+
+
+#AboutUs img
+{
+    height: 400px;
+    weight:400px;
+    border-radius: 50%;
+    transition: all 1s;
+}
+
+#AboutUs .description h1
+{
+    color: rgba(8,61,119);
+    text-align: center;
+}
+
+#AboutUs .description h2
+{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: #F21B3F;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+#AboutUs .description p
+{
+    color: rgba(8,61,119);
+    text-align: justify;
+    padding: 0 15px;
+}
+
+.social-media
+{
+    position: relative;
+
+    max-width: 30%;
+    max-height: 30%;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+
+}
+.button{
+    width: 75%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+.button button{
+    width: 150px;
+    padding: 12px;
+    border-radius: 4px;
+    background-color:#1f1f1f;
+    color:#c4b3a1;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.button button:hover{
+    background-color:#c4b3a1;
+    border: 1px solid #1f1f1f;
+    color: #1f1f1f;
+
+}
+/*
+
+#AboutUs .social-media-icon:hover
+{
+    opacity: 1;
+}
+*/
+#AboutUs .member:hover
+{
+    background-color: rgba(8,61,119,0.2);
+    transform: scale(1.01);
+}

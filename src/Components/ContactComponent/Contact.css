@@ -1,0 +1,92 @@
+.contactMe{
+    width: 100%;
+    height: auto;
+    padding:50px 20px;
+    background-image: url('../../img/bg2.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    color: #c4b3a1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.contactMe h1{
+    margin-bottom: 25px;
+    font-size: 40px;
+    margin-bottom:15px;
+    color: #c4b3a1;
+    text-shadow: 2px 2px #383737;
+}
+
+.resim{
+    width: 35%;
+    height: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.resim img{
+    width:100%;
+    border: 8px solid #1f1f1f;
+    padding: 5px;
+    box-shadow: 1px 1px 8px #1f1f1f;
+    filter: drop-shadow(2px 2px 2px #1f1f1f);
+}
+
+.contactcontent{
+    width: 100%;
+    display: flex;
+}
+.contactcontent img{
+    width: 37%;
+    height: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0;
+}
+.contact{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 55px;
+    font-size: 25px;
+}
+.contactlink{
+    height: 30px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    transition: 0.5s;
+
+}
+.contactlink:hover{
+    font-size: 20px;
+    color: green;
+}
+.contactlink a{
+    text-decoration: none;
+    color: #c4b3a1;
+    margin-left: 15px;
+}
+
+@media screen and (max-width:480px) {
+    .contactcontent img{
+        width: 50%;
+    }
+    .contactcontent{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .contact{
+        font-size: 18px;
+        padding-left: 20px;
+    }
+
+}
