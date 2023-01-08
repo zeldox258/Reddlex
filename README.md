@@ -1,1 +1,1 @@
-LİNK : https://zeldox258.github.io/reddlex.com/
+LİNK : https://zeldox258.github.io/Reddlex/
