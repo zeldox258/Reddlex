@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Reddlex/static/css/main.d2f0d12a.css",
-    "main.js": "/Reddlex/static/js/main.2c3ded6c.js",
+    "main.css": "/Reddlex/static/css/main.bf6b62b0.css",
+    "main.js": "/Reddlex/static/js/main.f5834e2c.js",
     "static/media/bg.jpg": "/Reddlex/static/media/bg.4560992e7748bd112496.jpg",
+    "static/media/Ahmet.jpeg": "/Reddlex/static/media/Ahmet.8b254498286636aa0ebc.jpeg",
     "static/media/bg2.jpg": "/Reddlex/static/media/bg2.fa8cab4bd8cc1b1e350a.jpg",
     "static/media/instagram.png": "/Reddlex/static/media/instagram.35f16fc3d1d82c4faadf.png",
     "static/media/playStore.jpeg": "/Reddlex/static/media/playStore.b7d7613a6151a4c0e7ec.jpeg",
     "static/media/node.png": "/Reddlex/static/media/node.abfaef34ea49d0c7cd3c.png",
-    "static/media/Ahmet.jpeg": "/Reddlex/static/media/Ahmet.5c24adf840d9bf05b80a.jpeg",
     "static/media/react.png": "/Reddlex/static/media/react.a24ff506a78e9243046a.png",
     "static/media/img.jpeg": "/Reddlex/static/media/img.b9bc731453bd1a3fd300.jpeg",
     "static/media/twitter.jpeg": "/Reddlex/static/media/twitter.0ed7e4d895e0b8c8f33f.jpeg",
@@ -20,11 +20,11 @@
     "static/media/slick.ttf": "/Reddlex/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Reddlex/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Reddlex/index.html",
-    "main.d2f0d12a.css.map": "/Reddlex/static/css/main.d2f0d12a.css.map",
-    "main.2c3ded6c.js.map": "/Reddlex/static/js/main.2c3ded6c.js.map"
+    "main.bf6b62b0.css.map": "/Reddlex/static/css/main.bf6b62b0.css.map",
+    "main.f5834e2c.js.map": "/Reddlex/static/js/main.f5834e2c.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2f0d12a.css",
-    "static/js/main.2c3ded6c.js"
+    "static/css/main.bf6b62b0.css",
+    "static/js/main.f5834e2c.js"
   ]
 }
