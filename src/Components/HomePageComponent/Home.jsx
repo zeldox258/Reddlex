@@ -4,6 +4,7 @@ import logo from '../../img/logo.jpeg'
 import { useSpring, animated } from 'react-spring'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
+import TopBar from '..//TopBar/TopBar';
 
 
 
@@ -22,15 +23,16 @@ function Home() {
   },[])
 
   return (
-    <div className='container'>
-      <div className="homeContent">
-      <animated.h1 style={props}>
-        <img src={logo} alt={logo}/>
-      </animated.h1>
+    <div >
+      <TopBar/>
+      <div className = 'container'>
+        <div className="homeContent">
+          <img src={logo} alt={logo}/>
 
-        <div className='hello'>
-          <h1 data-aos="fade-left">Make Your Life Easier</h1>
-          
+          <div className='hello'>
+            <h1 data-aos="fade-left">Make Your Life Easier</h1>
+
+          </div>
         </div>
       </div>
     </div>
