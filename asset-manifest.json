@@ -1,30 +1,27 @@
 {
   "files": {
     "main.css": "/Reddlex/static/css/main.bf6b62b0.css",
-    "main.js": "/Reddlex/static/js/main.f5834e2c.js",
+    "main.js": "/Reddlex/static/js/main.415642f6.js",
     "static/media/bg.jpg": "/Reddlex/static/media/bg.4560992e7748bd112496.jpg",
     "static/media/Ahmet.jpeg": "/Reddlex/static/media/Ahmet.8b254498286636aa0ebc.jpeg",
     "static/media/bg2.jpg": "/Reddlex/static/media/bg2.fa8cab4bd8cc1b1e350a.jpg",
-    "static/media/instagram.png": "/Reddlex/static/media/instagram.35f16fc3d1d82c4faadf.png",
     "static/media/playStore.jpeg": "/Reddlex/static/media/playStore.b7d7613a6151a4c0e7ec.jpeg",
     "static/media/node.png": "/Reddlex/static/media/node.abfaef34ea49d0c7cd3c.png",
     "static/media/react.png": "/Reddlex/static/media/react.a24ff506a78e9243046a.png",
     "static/media/img.jpeg": "/Reddlex/static/media/img.b9bc731453bd1a3fd300.jpeg",
-    "static/media/twitter.jpeg": "/Reddlex/static/media/twitter.0ed7e4d895e0b8c8f33f.jpeg",
     "static/media/native.png": "/Reddlex/static/media/native.90fb0021be64f2b1ce7e.png",
     "static/media/go.webp": "/Reddlex/static/media/go.30ff53ebad761f6e8e5a.webp",
     "static/media/appStore.png": "/Reddlex/static/media/appStore.128f76be7cb9dded82e9.png",
-    "static/media/github.png": "/Reddlex/static/media/github.52ede61632060d5ebcc9.png",
     "static/media/slick.svg": "/Reddlex/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/Reddlex/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/Reddlex/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Reddlex/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Reddlex/index.html",
     "main.bf6b62b0.css.map": "/Reddlex/static/css/main.bf6b62b0.css.map",
-    "main.f5834e2c.js.map": "/Reddlex/static/js/main.f5834e2c.js.map"
+    "main.415642f6.js.map": "/Reddlex/static/js/main.415642f6.js.map"
   },
   "entrypoints": [
     "static/css/main.bf6b62b0.css",
-    "static/js/main.f5834e2c.js"
+    "static/js/main.415642f6.js"
   ]
 }
