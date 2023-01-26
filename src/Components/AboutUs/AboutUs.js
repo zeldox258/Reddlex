@@ -2,11 +2,6 @@ import './AboutUs.css'
 import Member1 from '../../img/img.jpeg';
 import Member2 from '../../img/Ahmet.jpeg';
 
-import instagramIcon from '../../logo/instagram.png';
-import linkedInIcon from '../../logo/linkedin.png';
-import twitterIcon from '../../logo/twitter.jpeg';
-import gitHubIcon from '../../logo/github.png';
-
 const omerLinkedin=() =>{
 // eslint-disable-next-line no-restricted-globals
   location.href="https://www.linkedin.com/in/huseyinomerguray/";

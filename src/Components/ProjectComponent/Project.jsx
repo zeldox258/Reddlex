@@ -62,7 +62,7 @@ function Project() {
       ]
     };
   return (
-    <div className='ProjectContent'>
+    <div id="project" className='ProjectContent'>
         <h2 data-aos="fade-down">OUR PROJECTS</h2>
         <Slider {...settings}>
             {data.map((item, index) =>

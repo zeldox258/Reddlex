@@ -6,14 +6,16 @@ function TopBar() {
     <div className="top-bar">
       <nav>
         <ul className="top-bar-nav">
+
+          <li>
+            <a href="#project">Projects</a>
+          </li>
+          <li>
+            <a href="#TechStack">TechStack</a>
+          </li>
+
           <li>
             <a href="#contact">Contact</a>
-          </li>
-          <li>
-            <a href="#project">Project</a>
-          </li>
-          <li>
-            <a href="#vision">Vision</a>
           </li>
         </ul>
       </nav>

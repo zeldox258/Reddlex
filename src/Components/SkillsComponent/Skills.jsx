@@ -16,7 +16,7 @@ function Skills() {
         AOS.init({duration:2000})
       },[])
   return (
-    <div className="container-skills">
+    <div id="TechStack" className="container-skills">
         <h1 data-aos="fade-down">OUR TECHSTACK</h1>
        <div className="yetenek_card">
 
