@@ -13,7 +13,9 @@ function TopBar() {
           <li>
             <a href="#TechStack">TechStack</a>
           </li>
-
+          <li>
+            <a href="#contact">Vision</a>
+          </li>
           <li>
             <a href="#contact">Contact</a>
           </li>
