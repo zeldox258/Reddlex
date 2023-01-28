@@ -1,6 +1,6 @@
 import React from 'react';
 import './TopBar.css';
-
+// we can add more
 function TopBar() {
   return (
     <div className="top-bar">
