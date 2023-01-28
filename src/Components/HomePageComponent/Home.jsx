@@ -25,15 +25,16 @@ function Home() {
   return (
     <div >
       <TopBar/>
-      <div className = 'container'>
-        <div className="homeContent">
-          <img src={logo} alt={logo}/>
-
-          <div className='hello'>
-            <h1 data-aos="fade-left">Make Your Life Easier</h1>
-
-          </div>
+      <div id = "home" className = 'container'>
+        <div className='hello'>
+          <h1 data-aos="fade-left">Reddlex</h1>
         </div>
+
+        <div className="homeContent">
+          <h1 data-aos="fade-left">Make Your Life Easier</h1>
+          <p>Reddlex is a new startup founded in 2023, with the goal of creating innovative and user-friendly applications to make people's lives easier. We believe in utilizing the up to date technologies to simplify everyday tasks and improve overall efficiency. Our team is dedicated to delivering high-quality products that are designed with the user in mind. Join us on our mission to make life easier for everyone.</p>
+        </div>
+
       </div>
     </div>
   )

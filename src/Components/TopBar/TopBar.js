@@ -1,5 +1,7 @@
 import React from 'react';
 import './TopBar.css';
+import logo from '../../img/logo.jpeg'
+
 // we can add more
 function TopBar() {
   return (
@@ -8,16 +10,21 @@ function TopBar() {
         <ul className="top-bar-nav">
 
           <li>
-            <a href="#project">Projects</a>
+          <a href="home">
+            <img src={logo} alt={logo}/>
+          </a>
           </li>
           <li>
-            <a href="#TechStack">TechStack</a>
+            <a href="#home">WHO ARE WE?</a>
           </li>
           <li>
-            <a href="#contact">Vision</a>
+            <a href="#project">PROJECTS</a>
           </li>
           <li>
-            <a href="#contact">Contact</a>
+            <a href="#TechStack">TECHSTACK</a>
+          </li>
+          <li>
+            <a href="#contact">CONTACT</a>
           </li>
         </ul>
       </nav>

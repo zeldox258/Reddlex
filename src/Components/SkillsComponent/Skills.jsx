@@ -4,6 +4,7 @@ import go from '../../logo/go.webp'
 import native from '../../logo/native.png'
 import node from '../../logo/node.png'
 import react from '../../logo/react.png'
+import mongo from '../../logo/Mongo.webp'
 
 import AOS from 'aos'
 import 'aos/dist/aos.css'
@@ -35,6 +36,10 @@ function Skills() {
         <div className="skillCard" data-aos="fade-left" data-aos-easing="linear">
             <img src={native} alt="react" />
             <h4>REACT NATIVE</h4>
+        </div>
+        <div className="skillCard" data-aos="fade-left" data-aos-easing="linear">
+            <img src={mongo} alt="react" />
+            <h4>MongoDB</h4>
         </div>
 
 

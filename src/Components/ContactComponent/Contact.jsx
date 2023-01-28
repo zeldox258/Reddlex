@@ -27,7 +27,7 @@ function Contact() {
         <div className="contact">
             <div data-aos="fade-right" className='contactlink'><GoMail/><a rel="noreferrer noopener" target='_blank' href="mailto:reddlex@gmail.com"> reddlex@gmail.com</a></div>
             <div data-aos="fade-left" className='contactlink'><FaLinkedinIn/> <a rel="noreferrer noopener" target='_blank'href="https://www.linkedin.com/company/reddlexx">Linkedin:Reddlex</a></div>
-            <div data-aos="fade-left" className='contactlink'><AiFillInstagram/> <a rel="noreferrer noopener" target='_blank'href="https://www.instagram.com/reddlexteam/">Instagram:ReddlexTeam</a></div>
+            <div className='contactlink'><AiFillInstagram/> <a rel="noreferrer noopener" target='_blank'href="https://www.instagram.com/reddlexteam/">Instagram:ReddlexTeam</a></div>
 
         </div>
       </div>

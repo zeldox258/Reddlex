@@ -34,6 +34,8 @@
     padding: 5px;
     box-shadow: 1px 1px 8px #1f1f1f;
     filter: drop-shadow(2px 2px 2px #1f1f1f);
+    border-radius: 90px;
+
 }
 
 .contactcontent{

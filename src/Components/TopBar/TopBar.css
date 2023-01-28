@@ -20,5 +20,10 @@
 
 .top-bar-nav a {
   text-decoration: none;
+  font-weight: 900;
   color: black;
+}
+
+.top-bar-nav img {
+  border-radius: 90px;
 }
