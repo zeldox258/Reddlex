@@ -1,4 +1,4 @@
 # Redirects from what the browser requests to what we serve
-/home                /
-/tracker-wallet    /tracker-wallet
-/reddlexai                /reddlexai
+/home              /
+/tracker-wallet    /index.html /tracker-wallet
+/reddlexai         /index.html /reddlexai
