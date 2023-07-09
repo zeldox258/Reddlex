@@ -3,7 +3,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
 import './Project.css';
-import playStore from '../../logo/playStore.jpeg'
+import playStore from '../../logo/playStore.jpg'
 import appStore from '../../logo/appStore.png'
 import dbarray from '../../db'
 import AOS from 'aos'

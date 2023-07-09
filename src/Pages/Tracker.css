@@ -1,0 +1,67 @@
+.images{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.images img{
+    width: 20%;
+    margin: 1%;
+}
+
+.images img:hover{
+    width: 25%;
+    transition: width 1s;
+
+}
+
+
+.appContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.description{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+}
+
+
+.linkItem{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+
+.l_icon{
+    width: 25%;
+    padding: 5px;
+    margin: 5%;
+    border-radius: 10px ;
+  }
+.l_icon:hover{
+background-color: rgb(32, 197, 32);
+width: 30%;
+transition: width 0.8s;
+
+}
+
+.l_icon_image{
+    width: 100%;
+    border-radius: 10px ;
+}

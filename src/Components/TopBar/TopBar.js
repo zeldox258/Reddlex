@@ -10,22 +10,20 @@ function TopBar() {
         <ul className="top-bar-nav">
 
           <li>
-          <a href="home">
+          <a href="/">
             <img src={logo} alt={logo}/>
           </a>
           </li>
           <li>
-            <a href="#home">WHO ARE WE?</a>
+            <a href="/#home">Reddlex</a>
           </li>
           <li>
-            <a href="#project">PROJECTS</a>
+            <a href="/tracker-wallet">Tracker Wallet</a>
           </li>
           <li>
-            <a href="#TechStack">TECHSTACK</a>
+            <a href="/reddlexai">Reddlex Ai</a>
           </li>
-          <li>
-            <a href="#contact">CONTACT</a>
-          </li>
+
         </ul>
       </nav>
     </div>

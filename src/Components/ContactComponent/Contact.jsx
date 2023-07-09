@@ -20,9 +20,7 @@ function Contact() {
       <h1 data-aos="fade-down">CONTACT US</h1>
       <div data-aos="zoom-out" className="contactcontent">
 
-        <div className="resim" data-aos='fade-right'>
-          <img src={logo} alt={logo}/>
-        </div>
+        
 
         <div className="contact">
             <div data-aos="fade-right" className='contactlink'><GoMail/><a rel="noreferrer noopener" target='_blank' href="mailto:reddlex@gmail.com"> reddlex@gmail.com</a></div>
@@ -36,3 +34,10 @@ function Contact() {
 }
 
 export default Contact
+/*
+
+<div className="resim" data-aos='fade-right'>
+          <img src={logo} alt={logo}/>
+        </div>
+
+*/

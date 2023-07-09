@@ -1,19 +1,22 @@
-import './App.css';
-import Contact from './Components/ContactComponent/Contact';
-import Home from './Components/HomePageComponent/Home';
-import Project from './Components/ProjectComponent/Project';
-import Skills from './Components/SkillsComponent/Skills';
-import AboutUs from './Components/AboutUs/AboutUs';
+import HomePage from './Pages/HomePage';
+import Tracker from './Pages/Tracker';
+import ReddlexAi from './Pages/ReddlexAi';
+import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+
 
 
 function App() {
   return (
-    <div className="App">
-      <Home />
-      <Project />
-      <Skills />
-      <Contact />
-    </div>
+    <Router>
+      <div>
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/tracker-wallet" element={<Tracker />} />
+          <Route path="/reddlexai" element={<ReddlexAi />} />
+
+        </Routes>
+      </div>
+    </Router>
   );
 }
 
