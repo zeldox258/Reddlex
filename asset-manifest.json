@@ -1,28 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.97f6f546.css",
-    "main.js": "./static/js/main.2e482940.js",
-    "static/media/energyIcon.png": "./static/media/energyIcon.628121044c9cfcc41137.png",
-    "static/media/Ahmet.jpeg": "./static/media/Ahmet.8b254498286636aa0ebc.jpeg",
+    "main.css": "./static/css/main.b9eb458f.css",
+    "main.js": "./static/js/main.2191561d.js",
+    "static/media/6.png": "./static/media/6.d993a7be206a9c2183f5.png",
+    "static/media/7.png": "./static/media/7.87b23c56b9a807c5df20.png",
+    "static/media/1.png": "./static/media/1.b144f69533e524e63af5.png",
+    "static/media/8.png": "./static/media/8.01fc821c98f3a53e4876.png",
+    "static/media/3.png": "./static/media/3.6a472b3626d4384e24dd.png",
+    "static/media/2.png": "./static/media/2.071a7cb830bfccaf9333.png",
     "static/media/bg2.jpg": "./static/media/bg2.fa8cab4bd8cc1b1e350a.jpg",
-    "static/media/playStore.jpeg": "./static/media/playStore.b7d7613a6151a4c0e7ec.jpeg",
-    "static/media/node.png": "./static/media/node.abfaef34ea49d0c7cd3c.png",
-    "static/media/react.png": "./static/media/react.a24ff506a78e9243046a.png",
-    "static/media/img.jpeg": "./static/media/img.b9bc731453bd1a3fd300.jpeg",
-    "static/media/native.png": "./static/media/native.90fb0021be64f2b1ce7e.png",
-    "static/media/go.webp": "./static/media/go.30ff53ebad761f6e8e5a.webp",
-    "static/media/appStore.png": "./static/media/appStore.128f76be7cb9dded82e9.png",
-    "static/media/Mongo.webp": "./static/media/Mongo.c38cd70da656f9a39820.webp",
-    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "static/media/4.png": "./static/media/4.f6751a8bf7958df884ce.png",
+    "static/media/5.png": "./static/media/5.c60eddb88e8afe4dad55.png",
+    "static/media/playStore.jpg": "./static/media/playStore.c221cd89ab3925cad90e.jpg",
+    "static/media/appStore.png": "./static/media/appStore.fea51865432adf4b27e3.png",
     "index.html": "./index.html",
-    "main.97f6f546.css.map": "./static/css/main.97f6f546.css.map",
-    "main.2e482940.js.map": "./static/js/main.2e482940.js.map"
+    "main.b9eb458f.css.map": "./static/css/main.b9eb458f.css.map",
+    "main.2191561d.js.map": "./static/js/main.2191561d.js.map"
   },
   "entrypoints": [
-    "static/css/main.97f6f546.css",
-    "static/js/main.2e482940.js"
+    "static/css/main.b9eb458f.css",
+    "static/js/main.2191561d.js"
   ]
 }
