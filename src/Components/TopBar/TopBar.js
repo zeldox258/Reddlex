@@ -21,7 +21,7 @@ function TopBar() {
             <a href="/tracker-wallet">Tracker Wallet</a>
           </li>
           <li>
-            <a href="/reddlexai">Reddlex Ai</a>
+            <a href="/reddlexai">Reddlex AI</a>
           </li>
 
         </ul>
